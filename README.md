@@ -3,7 +3,9 @@
 > **Resumo executivo:** Fork ➜ Branch com seu nome ➜ Commit & Push ➜ Pull Request ➜ Envie o link ao professor.  
 > Se ficar na dúvida, retorne ao passo 1 e repita a operação.
 
----
+
+
+
 
 ## 1. Acesse o repositório da turma
 
@@ -12,12 +14,18 @@
 
 ---
 
+
+
+
 ## 2. Faça um **fork** (cópia pessoal)
 
 1. Clique no botão **Fork** (canto superior-direito).
 2. Aguarde alguns segundos; seu fork aparecerá em `github.com/<seu-usuário>/dp-aw`.
 
 ---
+
+
+
 
 ## 3. Crie uma **branch** com seu nome
 
@@ -32,6 +40,9 @@ git checkout -b joao-silva
 ```
 
 ---
+
+
+
 
 ## 4. OPERACIONALIZANDO
 
