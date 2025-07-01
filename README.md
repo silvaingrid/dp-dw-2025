@@ -12,7 +12,7 @@
 1. Abra **https://github.com/awescolar/dp-dw-2025** no navegador.
 2. Confirme que está logado na **sua** conta GitHub.
 
----
+
 
 
 
@@ -22,7 +22,7 @@
 1. Clique no botão **Fork** (canto superior-direito).
 2. Aguarde alguns segundos; seu fork aparecerá em `github.com/<seu-usuário>/dp-aw`.
 
----
+-
 
 
 
@@ -39,7 +39,7 @@ cd dp-aw
 git checkout -b joao-silva
 ```
 
----
+
 
 
 
